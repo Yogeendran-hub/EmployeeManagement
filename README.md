@@ -26,7 +26,7 @@ A web-based Employee Management System built with Python and Django. This projec
 
 2. Install dependencies:
 
--pip install -r requirements.txt
+- pip install -r requirements.txt
 
 3. Apply migrations:
 
@@ -34,7 +34,7 @@ A web-based Employee Management System built with Python and Django. This projec
 
 4. Start the development server:
 
--python manage.py runserver
+- python manage.py runserver
 
 
 5. Access the app at `http://127.0.0.1:8000/`
