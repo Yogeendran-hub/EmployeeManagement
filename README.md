@@ -24,4 +24,37 @@ A web-based Employee Management System built with Python and Django. This projec
 
 - git clone https://github.com/YOUR-USERNAME/EmployeeManagement.git
 
-1. Clone the repository:
+2. Install dependencies:
+
+-pip install -r requirements.txt
+
+3. Apply migrations:
+
+- python manage.py migrate
+
+4. Start the development server:
+
+-python manage.py runserver
+
+
+5. Access the app at `http://127.0.0.1:8000/`
+
+## Folder Structure
+
+- `employeemanagement/` – Main Django project folder
+- `employees/` – App for managing employee models and views
+- `templates/` – HTML templates for rendering views
+- `static/` – Static files (CSS, JS, images)
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+> EmployeeManagement is developed to simplify and digitize workforce administration using Python and Django for robust, scalable, and maintainable software solutions.
+
