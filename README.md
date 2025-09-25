@@ -22,7 +22,7 @@ A web-based Employee Management System built with Python and Django. This projec
 
 1. Clone the repository:
 
-- git clone https://github.com/YOUR-USERNAME/EmployeeManagement.git
+- git clone https://github.com/Yogeendran-hub/EmployeeManagement.git
 
 2. Install dependencies:
 
